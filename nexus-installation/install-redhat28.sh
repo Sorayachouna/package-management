@@ -36,4 +36,5 @@ sudo ln -s /opt/nexus/bin/nexus /etc/init.d/nexus
 sudo systemctl enable nexus
 sudo systemctl start nexus
 sudo systemctl status nexus
-echo "end of nexus installation"
+echo "end of nexus installation" 
+#by soraya
